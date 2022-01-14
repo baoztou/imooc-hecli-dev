@@ -1,6 +1,6 @@
 {
   "name": "@imooc-hecli-dev/core",
-  "version": "1.0.2",
+  "version": "1.0.0",
   "description": "imooc-hecli-dev core",
   "author": "何俊克 <hejunke@zt-culture.com>",
   "homepage": "",
@@ -22,5 +22,5 @@
   "dependencies": {
     "@imooc-hecli-dev/utils": "^1.0.2"
   },
-  "gitHead": "fd5f2cee1e0cfcb5af42b75452e8713919686bbe"
+  "gitHead": "f43732c259e0595b3f3e1a94c9ebafaf8937a6d6"
 }
