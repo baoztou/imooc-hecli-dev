@@ -1,6 +1,6 @@
 {
   "name": "@imooc-hecli-dev/utils",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "imooc-hecli-dev utils",
   "author": "何俊克 <hejunke@zt-culture.com>",
   "homepage": "",
@@ -15,6 +15,5 @@
   ],
   "scripts": {
     "test": "echo \"Run testing from core\""
-  },
-  "dependencies": {}
+  }
 }
